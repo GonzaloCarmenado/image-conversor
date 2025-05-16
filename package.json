@@ -1,0 +1,19 @@
+{
+  "name": "iesa-tc-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp generateImg"
+  },
+  "author": "gonzalo carmenado",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "5.0.0",
+    "gulp-cli": "^3.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "sharp": "^0.34.1"
+  }
+}
