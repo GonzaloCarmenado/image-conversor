@@ -2,7 +2,7 @@
 
 ## 📦 Descripción del proyecto
 
-    Permite transformar de manera rápida las imágenes de la carpeta "images" en formato .AVIF. Este formato ocupa bastante menos manteniendo una resolución
+    Permite transformar de manera rápida las imágenes de la carpeta "images" a formato .AVIF. Este formato ocupa bastante menos manteniendo una resolución
     correcta. Usar AVIF ayuda a la velocidad de carga de las páginas web. Las imagenes que hay son de ejemplo, para que una vez ejecutes el comando, puedas ver
     cuanto espacio estás ganando.
 
